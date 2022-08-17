@@ -1,0 +1,30 @@
+{
+  "name": "steam-unlocked",
+  "version": "1.0.0",
+  "description": "Unofficial API for Steam Unlocked",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harry260/steam-unlocked.git"
+  },
+  "keywords": [
+    "steam",
+    "gaming",
+    "api",
+    "download"
+  ],
+  "author": "Harry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harry260/steam-unlocked/issues"
+  },
+  "homepage": "https://github.com/harry260/steam-unlocked#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
