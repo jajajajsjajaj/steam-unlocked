@@ -8,7 +8,7 @@
 !*/
 
 export { default as GamesList } from "./lib/list.js";
-export { default as GameInfo } from "./lib/gameInfo";
-export { default as GameFeed } from "./lib/feed";
-export { default as GameSearch } from "./lib/search";
-export { default as Category } from "./lib/categories";
+export { default as GameInfo } from "./lib/gameInfo.js";
+export { default as GameFeed } from "./lib/feed.js";
+export { default as GameSearch } from "./lib/search.js";
+export { default as Category } from "./lib/categories.js";
