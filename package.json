@@ -1,6 +1,6 @@
 {
   "name": "steam-unlocked",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Unofficial API for Steam Unlocked",
   "main": "index.js",
   "type": "module",
