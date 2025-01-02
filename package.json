@@ -1,30 +1,12 @@
 {
-  "name": "steam-unlocked",
-  "version": "1.0.4",
-  "description": "Unofficial API for Steam Unlocked",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "nodemon index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/harry260/steam-unlocked.git"
-  },
-  "keywords": [
-    "steam",
-    "gaming",
-    "api",
-    "download"
-  ],
-  "author": "Harry",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/harry260/steam-unlocked/issues"
-  },
-  "homepage": "https://github.com/harry260/steam-unlocked#readme",
-  "dependencies": {
-    "axios": "^0.27.2",
-    "cheerio": "^1.0.0-rc.12"
-  }
-}
+  "name": "natan da vovo",
+  "downloads": [
+    {    
+    "title": "pes 21",
+      "uris": [
+        "https://download131.uploadhaven.com/1/application/zip/CdUl5Pe9nvZDQKPsHz0wz3TaR9cedZyApz8fJ0O0.zip?key=3U2LXu-KtnzK7LMPWkkO_Q&expire=1735901772&filename=eFootball.PES.2021.v1.01.zip"
+      ],
+            "uploadDate": "2024-09-20T08:06:00Z",
+      "fileSize": "25.99 GB",
+      "repackLinkSource": "https://steamunlocked.net/929849-efootball-pes-2021-free-game-download/"
+    },
